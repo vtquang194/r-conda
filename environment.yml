@@ -1,5 +1,5 @@
 channels:
-  - conda-forge r-openair
+  - conda-forge
 dependencies:
   - r-base=4.0.2
   - r-tidyverse
