@@ -1,5 +1,5 @@
 # r-conda
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vtquang194/r-conda/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vtquang194/r-conda/master?urlpath=rstudio)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/betatim/r-conda/master?urlpath=rstudio)
 
